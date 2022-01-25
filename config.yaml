@@ -1,9 +1,9 @@
-baseURL: "https://docs.mendix.com/"
+baseURL: "https://engalar.github.io/mendix_docs/"
 languageCode: "en-us"
 title: "Mendix Documentation"
 
 params:
-  repository: "https://github.com/mendix/docs"
+  repository: "https://github.com/engalar/mendix_docs"
   repository_branch: "development"
   algolia:
     application_id:    'OHBX5T982M'
